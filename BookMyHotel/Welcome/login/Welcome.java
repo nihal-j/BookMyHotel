@@ -20,7 +20,7 @@ public class Welcome
 			{
 				try
 				{
-					Welcome window = new Welcome();
+					Welcome window = new Welcome();//test1
 					window.frame.setVisible(true);
 				} catch (Exception e)
 				{
